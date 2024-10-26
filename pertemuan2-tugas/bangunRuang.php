@@ -39,7 +39,7 @@ class BangunRuang
     }
 }
 
-// Contoh penggunaan
+
 $bangunRuang = new BangunRuang();
 
 echo "Result : <br>";
